@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/20220815_161756.jpg" alt="PROJECT 01" height= "300" width="300"/>
+<img src="https://telegra.ph/file/pradeep.jpg" alt="PROJECT 01" height= "300" width="300"/>
 
 
 </p>
